@@ -19,3 +19,39 @@ body {
 .error {
     color: red;
 }
+
+/* AVTOCHEK */
+
+
+
+.btn {
+    border: none;
+    padding: 0.25rem 1.25rem;
+}
+
+.link {
+    text-decoration: none;
+    color: navy;
+}
+
+/* Напиши свій код під цим рядком */
+.btn:active {
+    color: red;
+}
+
+a:link,
+a:active {
+    font-weight: 700;
+}
+
+
+
+.btn:active {
+    color: red;
+}
+
+a:link,
+a:active {
+    font-weight: 700;
+}
+
